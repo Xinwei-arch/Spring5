@@ -21,4 +21,14 @@ public class testDemo {
         us.add();
     }
 
+    @Test
+    public void testService2() {
+        System.out.println("test");
+    }
+
+    @Test
+    public void testService3() {
+        System.out.println("fix3");
+    }
+
 }
