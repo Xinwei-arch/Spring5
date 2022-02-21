@@ -21,4 +21,9 @@ public class testDemo {
         us.add();
     }
 
+    @Test
+    public void testService2() {
+        System.out.println("test");
+    }
+
 }
