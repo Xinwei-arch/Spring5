@@ -28,7 +28,8 @@ public class testDemo {
 
     @Test
     public void testService3() {
-        System.out.println("fix3");
+        System.out.println("fix3");System.out.println("push commit");
+        System.out.println("pull commit");
     }
 
 }
