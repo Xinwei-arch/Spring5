@@ -26,4 +26,9 @@ public class testDemo {
         System.out.println("test");
     }
 
+    @Test
+    public void testService3() {
+        System.out.println("fix3");
+    }
+
 }
